@@ -1,12 +1,14 @@
 # Customer & Revenue Analytics
 
-An end-to-end e-commerce analytics project using SQL, Excel, and Power BI to analyze revenue performance, customer contribution, product performance, and regional trends.
+## Project Overview
+
+An end-to-end e-commerce analytics project using SQL, Excel, and Power BI to understand revenue performance, customer contribution, product performance, and regional trends.
 
 ## Business Questions
 
 - Where is revenue coming from?
 - Which customers contribute the most revenue?
-- Which products and categories drive sales?
+- Which products and categories drive revenue?
 - How do regions perform?
 - How does revenue change month to month?
 
@@ -44,7 +46,7 @@ Electronics contributes **77.25% of total revenue** while accounting for **40.14
 
 ### East leads regional performance
 
-The East region contributes **35.66% of total revenue** and records the highest order volume and AOV among the regions.
+The East region contributes **35.66% of total revenue** and leads in both order volume and AOV.
 
 ### Customer concentration
 
@@ -66,13 +68,14 @@ The project includes an interactive Power BI dashboard covering:
 - Top 10 products
 - Business insights
 
-## Project Structure
+## Project Files
 
-\```text
-customer-revenue-analytics/
-│
-├── README.md
-├── Customer_Revenue_Analytics_Project_v2.xlsx
-├── customer_revenue_analysis.sql
-└── customer_revenue_dashboard.png
-\```
+| File | Description |
+|---|---|
+| `Customer_Revenue_Analytics_Project_v2.xlsx` | Project dataset and Excel analysis |
+| `customer_revenue_analysis.sql` | SQL analysis queries |
+| `customer_revenue_dashboard.png` | Power BI dashboard screenshot |
+
+## Learning Outcome
+
+This project strengthened practical skills in SQL querying, Excel-based analysis, Power BI dashboard development, data cleaning, KPI analysis, and business storytelling.
