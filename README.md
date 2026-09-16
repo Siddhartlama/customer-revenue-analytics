@@ -68,6 +68,10 @@ The project includes an interactive Power BI dashboard covering:
 - Top 10 products
 - Business insights
 
+### Dashboard Preview
+
+![Customer Revenue Analytics Dashboard](customer_revenue_dashboard.png)
+
 ## Project Files
 
 | File | Description |
